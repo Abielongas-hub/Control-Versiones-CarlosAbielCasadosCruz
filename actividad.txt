@@ -1,9 +1,12 @@
-Objetivo de la actividad:
+Objetivo de la actividad
 
-Crear un repositorio y administrar versiones de archivos.
-El repositorio debe llevar:
-- Nombre
-- Descripción
-- Archivo README
+Crear un repositorio en GitHub y administrar versiones de archivos,
+aprendiendo el uso básico del control de versiones.
 
-Este archivo sirve como evidencia del trabajo realizado.
+El repositorio debe incluir:
+- Un nombre representativo
+- Una descripción clara
+- Un archivo README con la información del proyecto
+
+Este archivo forma parte de la evidencia del trabajo realizado en clase
+y complementa la información presentada en el README.
