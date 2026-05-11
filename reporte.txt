@@ -9,6 +9,15 @@ Actividades realizadas:
 - Revisión de información interna
 - Registro de cambios en archivos
 
+Actividades pendientes:
+- Creación de carpetas para documentos administrativos.
+- Clasificación de archivos importantes.
+- Organización de reportes semanales.
+- Actualización de documentos financieros.
+
+Estado del proyecto:
+En proceso de revisión.
+
 La información se almacena de manera digital para facilitar
 el acceso y la actualización de los datos.
 
