@@ -1,12 +1,5 @@
 Reporte de actividades de la empresa
+Versión 1
 
 Este documento contiene un reporte general de las actividades
 realizadas dentro de la empresa.
-
-Actividades realizadas:
-- Organización de documentos
-- Revisión de información interna
-- Registro de cambios en archivos
-
-La información se almacena de manera digital para facilitar
-el acceso y la actualización de los datos.
