@@ -8,6 +8,8 @@ Actividades realizadas:
 - Creación del repositorio
 - Agregado del archivo README
 - Creación y edición de archivos de texto
+- Creacion de un archivo llamado reporte
 - Uso básico del control de versiones
+- Documentar los cambios del archivo importante
 
 Este reporte sirve como evidencia del trabajo realizado en clase.
