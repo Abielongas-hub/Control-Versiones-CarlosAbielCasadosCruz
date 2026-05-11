@@ -1,5 +1,5 @@
 Reporte de actividades de la empresa
-Versión 4
+Versión 5
 
 Este documento contiene un reporte general de las actividades
 realizadas dentro de la empresa.
@@ -11,3 +11,4 @@ Actividades realizadas:
 
 La información se almacena de manera digital para facilitar
 el acceso y la actualización de los datos.
+
