@@ -1,5 +1,8 @@
 Reporte de actividades de la empresa
-Versión 1
+Versión 2
 
 Este documento contiene un reporte general de las actividades
 realizadas dentro de la empresa.
+
+El reporte se realiza con el fin de llevar un control básico
+de la información y los procesos internos.
