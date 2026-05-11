@@ -15,6 +15,8 @@ El objetivo del proyecto es permitir que varios integrantes del equipo puedan co
 - GitHub
 
 ## Integrantes
-- Nombre del integrante 1
-- Nombre del integrante 2
-- Nombre del integrante 3
+- Carlos Abiel Casados Cruz
+- Angel Alexander Bravo Ledezma
+- Christopher Uriel Hernandez Chena
+- Perla Dayana Villegas Nieto
+- Maria Fernanda Martinez Lopez
