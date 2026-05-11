@@ -10,6 +10,3 @@ Actividades realizadas:
 
 La información se almacena de manera digital para facilitar
 el acceso y la actualización de los datos.
-
-Este reporte puede seguir siendo modificado conforme se
-realicen nuevas actividades.
