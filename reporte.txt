@@ -1,1 +1,13 @@
-Reporte de actividades de la empresa. Versión 1
+Reporte de actividades de la empresa
+Versión 1
+
+En este reporte se documentan las actividades realizadas durante
+la creación del repositorio en GitHub.
+
+Actividades realizadas:
+- Creación del repositorio
+- Agregado del archivo README
+- Creación y edición de archivos de texto
+- Uso básico del control de versiones
+
+Este reporte sirve como evidencia del trabajo realizado en clase.
